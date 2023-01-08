@@ -1,0 +1,163 @@
+[
+  {
+    "content": "speaker 1 : In this lesson, we're going to\nbe talking about finance. And",
+    "content_api": "<x>$$</x>speaker 1 : In this lesson, we're going to\nbe talking about finance. And",
+    "index": 1,
+    "section_time": "00:00:03,400 --> 00:00:06,177",
+    "translate": "Intervenant 1 : Dans cette le\u00e7on, nous allons\nparler de finance. Et"
+  },
+  {
+    "content": "one of the most important aspects\nof finance is interest.",
+    "content_api": "<x>^^</x>one of the most important aspects\nof finance is interest.",
+    "index": 2,
+    "section_time": "00:00:06,177 --> 00:00:10,009",
+    "translate": "l'un des aspects les plus importants\nde la finance est l'int\u00e9r\u00eat."
+  },
+  {
+    "content": "speaker 2 : When I go to a bank or some\nother lending institution",
+    "content_api": "<x>$$</x>speaker 2 : When I go to a bank or some\nother lending institution",
+    "index": 3,
+    "section_time": "00:00:10,009 --> 00:00:13,655",
+    "translate": "speaker 2 : Quand je vais dans une banque ou un autre\nun autre \u00e9tablissement de cr\u00e9dit"
+  },
+  {
+    "content": "to borrow money, the bank is happy\nto give me that money. But then I'm",
+    "content_api": "<x>^^</x>to borrow money, the bank is happy\nto give me that money. But then I'm",
+    "index": 4,
+    "section_time": "00:00:13,655 --> 00:00:17,720",
+    "translate": "pour emprunter de l'argent, la banque est heureuse\nde me donner cet argent. Mais ensuite,"
+  },
+  {
+    "content": "going to be paying the bank for the\nprivilege of using their money. And that",
+    "content_api": "<x>^^</x>going to be paying the bank for the\nprivilege of using their money. And that",
+    "index": 5,
+    "section_time": "00:00:17,900 --> 00:00:21,480",
+    "translate": "je vais devoir payer la banque pour le\nprivil\u00e8ge d'utiliser leur argent. Et ce"
+  },
+  {
+    "content": "amount of money that I pay the bank is\ncalled interest. Likewise, if I put money",
+    "content_api": "<x>^^</x>amount of money that I pay the bank is\ncalled interest. Likewise, if I put money",
+    "index": 6,
+    "section_time": "00:00:21,660 --> 00:00:26,440",
+    "translate": "montant d'argent que je paie \u00e0 la banque est\nappel\u00e9 int\u00e9r\u00eat. De m\u00eame, si je place de l'argent"
+  },
+  {
+    "content": "in a savings account or I purchase a\ncertificate of deposit, the bank just",
+    "content_api": "<x>^^</x>in a savings account or I purchase a\ncertificate of deposit, the bank just",
+    "index": 7,
+    "section_time": "00:00:26,620 --> 00:00:31,220",
+    "translate": "sur un compte d'\u00e9pargne ou que j'ach\u00e8te un\ncertificat de d\u00e9p\u00f4t, la banque"
+  },
+  {
+    "content": "> doesn't put my money in a little box\nand leave it there until later. They take",
+    "content_api": "<x>$$</x>> doesn't put my money in a little box\nand leave it there until later. They take",
+    "index": 8,
+    "section_time": "00:00:31,300 --> 00:00:35,800",
+    "translate": "&gt; ne met pas mon argent dans une petite bo\u00eete\net le laisse l\u00e0 jusqu'\u00e0 plus tard. Elle prend"
+  },
+  {
+    "content": "my money and lend it to someone\nelse. So they are using my money.",
+    "content_api": "<x>^^</x>my money and lend it to someone\nelse. So they are using my money.",
+    "index": 9,
+    "section_time": "00:00:35,800 --> 00:00:40,822",
+    "translate": "mon argent et le pr\u00eate \u00e0 quelqu'un d'autre.\nquelqu'un d'autre. Elle utilise donc mon argent."
+  },
+  {
+    "content": "The bank has to pay me for the privilege\nof using my money.",
+    "content_api": "<x>^^</x>The bank has to pay me for the privilege\nof using my money.",
+    "index": 10,
+    "section_time": "00:00:40,822 --> 00:00:44,400",
+    "translate": "La banque doit me payer pour le privil\u00e8ge\nd'utiliser mon argent."
+  },
+  {
+    "content": "Now what makes banks\nprofitable is the rate",
+    "content_api": "<x>^^</x>Now what makes banks\nprofitable is the rate",
+    "index": 11,
+    "section_time": "00:00:44,400 --> 00:00:48,700",
+    "translate": "Maintenant, ce qui rend les banques\nrentable est le taux"
+  },
+  {
+    "content": "= that they charge people to use the bank's\nmoney is higher than the rate that they",
+    "content_api": "<x>$$</x>= that they charge people to use the bank's\nmoney is higher than the rate that they",
+    "index": 12,
+    "section_time": "00:00:48,700 --> 00:00:53,330",
+    "translate": "= qu'elles facturent aux gens pour utiliser l'argent de la banque\nde la banque est plus \u00e9lev\u00e9 que le taux qu'elles"
+  },
+  {
+    "content": "pay people like me to use my money. The\namount of interest that a person pays or",
+    "content_api": "<x>^^</x>pay people like me to use my money. The\namount of interest that a person pays or",
+    "index": 13,
+    "section_time": "00:00:53,510 --> 00:01:00,720",
+    "translate": "paient aux gens comme moi pour utiliser mon argent. Le\nmontant des int\u00e9r\u00eats qu'une personne paie ou"
+  },
+  {
+    "content": "earns is dependent on three things. It's\ndependent on how much money is involved.",
+    "content_api": "<x>^^</x>earns is dependent on three things. It's\ndependent on how much money is involved.",
+    "index": 14,
+    "section_time": "00:01:00,800 --> 00:01:06,640",
+    "translate": "gagne d\u00e9pend de trois choses. Il d\u00e9pend\nIl d\u00e9pend de la quantit\u00e9 d'argent impliqu\u00e9e."
+  },
+  {
+    "content": "It's dependent upon the rate of interest\nbeing paid or the rate of interest being",
+    "content_api": "<x>^^</x>It's dependent upon the rate of interest\nbeing paid or the rate of interest being",
+    "index": 15,
+    "section_time": "00:01:06,820 --> 00:01:11,300",
+    "translate": "Il d\u00e9pend du taux d'int\u00e9r\u00eat\nqui est pay\u00e9 ou le taux d'int\u00e9r\u00eat qui est"
+  },
+  {
+    "content": "charged. And it's also dependent upon\nhow much time is involved. If I have",
+    "content_api": "<x>^^</x>charged. And it's also dependent upon\nhow much time is involved. If I have",
+    "index": 16,
+    "section_time": "00:01:11,480 --> 00:01:17,898",
+    "translate": "factur\u00e9. Et cela d\u00e9pend aussi\nde la dur\u00e9e du pr\u00eat. Si j'ai"
+  },
+  {
+    "content": "a loan and I want to decrease the amount\nof interest that I'm going to pay, then",
+    "content_api": "<x>^^</x>a loan and I want to decrease the amount\nof interest that I'm going to pay, then",
+    "index": 17,
+    "section_time": "00:01:17,898 --> 00:01:22,730",
+    "translate": "un pr\u00eat et que je veux diminuer le montant\nd'int\u00e9r\u00eats que je vais payer, alors"
+  },
+  {
+    "content": "- I'm either going to have to decrease how\nmuch money I borrow, I'm going to have",
+    "content_api": "<x>$$</x>- I'm either going to have to decrease how\nmuch money I borrow, I'm going to have",
+    "index": 18,
+    "section_time": "00:01:22,800 --> 00:01:28,040",
+    "translate": "- je vais devoir soit diminuer la quantit\u00e9\ncombien d'argent j'emprunte, je vais devoir"
+  },
+  {
+    "content": "to borrow the money over a shorter period\nof time, or I'm going to have to find a",
+    "content_api": "<x>^^</x>to borrow the money over a shorter period\nof time, or I'm going to have to find a",
+    "index": 19,
+    "section_time": "00:01:28,220 --> 00:01:32,420",
+    "translate": "emprunter l'argent sur une p\u00e9riode plus courte\np\u00e9riode de temps, ou je vais devoir trouver un"
+  },
+  {
+    "content": "= lending institution that charges a lower\ninterest rate. On the other hand, if I",
+    "content_api": "<x>$$</x>= lending institution that charges a lower\ninterest rate. On the other hand, if I",
+    "index": 20,
+    "section_time": "00:01:32,600 --> 00:01:37,279",
+    "translate": "= \u00e9tablissement de cr\u00e9dit qui applique un taux d'int\u00e9r\u00eat plus bas.\ntaux d'int\u00e9r\u00eat plus bas. D'un autre c\u00f4t\u00e9, si je veux"
+  },
+  {
+    "content": "want to earn more interest on my\ninvestment, I'm going to have to invest",
+    "content_api": "<x>^^</x>want to earn more interest on my\ninvestment, I'm going to have to invest",
+    "index": 21,
+    "section_time": "00:01:37,279 --> 00:01:41,480",
+    "translate": "gagner plus d'int\u00e9r\u00eats sur mon\ninvestissement, je vais devoir investir"
+  },
+  {
+    "content": "more money, leave the money in the\naccount for a longer period of time, or",
+    "content_api": "<x>^^</x>more money, leave the money in the\naccount for a longer period of time, or",
+    "index": 22,
+    "section_time": "00:01:41,480 --> 00:01:46,860",
+    "translate": "plus d'argent, laisser cet argent sur le\ncompte pendant une p\u00e9riode plus longue, ou"
+  },
+  {
+    "content": "find an institution that will pay\nme a higher interest rate.",
+    "content_api": "<x>^^</x>find an institution that will pay\nme a higher interest rate.",
+    "index": 23,
+    "section_time": "00:01:46,860 --> 00:01:49,970",
+    "translate": "trouver un \u00e9tablissement qui me paiera un taux d'int\u00e9r\u00eat plus \u00e9lev\u00e9.\nun taux d'int\u00e9r\u00eat plus \u00e9lev\u00e9."
+  }
+]
